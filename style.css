@@ -1,0 +1,31 @@
+#body{
+    background-color: rgb(233, 236, 13);
+}
+
+#submit_button{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(10, 218, 233);
+    
+}
+
+#sort_button{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(10, 218, 233);
+    
+}
+
+#show{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(10, 218, 233);
+    
+}
+
+#srch{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(10, 218, 233);
+    
+}
